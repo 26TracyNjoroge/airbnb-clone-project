@@ -50,15 +50,50 @@ Key aspects of our user-friendly approach include:
 
 ### Figma Design Specifications
 ### Color Styles
-- Primary:
+* `rgba(52, 150, 124, 1)` - Primary
+* `rgba(255, 168, 0, 1)` and `rgba(22, 17, 23, 1)` - Secondary
+* `rgba(255, 255, 255, 1)` - Shimmer
+* `rgba(235, 235, 235, 1)` - Border
 
 ### Typography
 
-- Primary Font: Circular
+#### Desktop
+**Headings:**
+- H1: Source Sans Pro, 600, 94px, 99px  
+- H2: Quicksand, 700, 50px, 100%  
+- H3: Quicksand, 500, 17px, 100%
 
-- Regular text: Medium (500), 16px
-- Headings: Bold (700), 24px-32px
-- Secondary Text: Book (400), 14px
+**Body Text:**
+- Primary: Quicksand, 500, 23px, 35px
+- Secondary: Quicksand, 500, 19px, 35px
+
+**Buttons/Labels:** 
+- Quicksand, 500, 20px, 100%
+
+#### Tablet
+**Headings:**
+- H1: Quicksand, 700, 39px, 100%  
+- H2: Quicksand, 700, 20px, 35px  
+- H3: Quicksand, 600, 15px, 18.55px   
+
+**Body Text:**
+- Primary: Quicksand, 500, 16px, 35px 
+- Secondary: Quicksand, 500, 11px, 18.55px 
+
+**Buttons/Labels:** 
+- Quicksand, 600, 14px, 100%
+
+#### Mobile
+**Headings:**
+- H2: Quicksand, 700, 22px, 100%
+- H3: Quicksand, 700, 22px, 35px
+
+**Body Text:**
+- Primary: Quicksand, 500, 18px, 35px 
+- Secondary: Quicksand, 500, 17.06px, 28.77px
+
+**Buttons/Labels:** 
+- Quicksand, 500, 11px, 21px
 
 ### Design Goals
 - Create an intuitive and frictionless booking flow
