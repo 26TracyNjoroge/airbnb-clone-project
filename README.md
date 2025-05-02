@@ -78,15 +78,15 @@ Key aspects of our user-friendly approach include:
 
 ## `Project Roles and Responsibilities`
 | Roles               | 	Responsibilities                                                                                                                                                                        |
-|---------------------|---------------------------------------------------------------------|
-| Project Manager     | Oversees timeline, coordinates team, manages deliverables           |
-| Frontend Developers | Implements UI components, ensures responsive design                 |
-| Backend Developers  | Builds APIs, manages database, implements business logic            |
-| Designers           | Creates mockups, maintains design system, ensures UX quality        |
-| QA/Testers          | Writes test cases, performs testing, reports bugs                   |
-| DevOps Engineers    | Manages deployment, CI/CD pipeline, server infrastructure           |
-| Product Owner       | Defines requirements, prioritizes features, represents stakeholders |
-| Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings   |
+|---------------------|----------------------------------------------------------------------------------------------------|
+| Project Manager     | - Oversees timeline<br>- Coordinates team<br>- Manages deliverables                                |
+| Frontend Developers | - Implements UI components<br>- Ensures responsive design<br>- Integrates with backend services    |
+| Backend Developers  | - Builds APIs<br>- Manages database<br>- Implements business logic                                 |
+| Designers           | - Creates mockups<br>- Maintains design system<br>- Ensures UX quality                             |
+| QA/Testers          | - Writes test cases<br>- Performs testing<br>- Reports bugs                                        |
+| DevOps Engineers    | - Manages deployment<br>- Configures CI/CD pipeline<br>- Maintains server infrastructure           |
+| Product Owner       | - Defines requirements<br>- Prioritizes features<br>- Represents stakeholders                      |
+| Scrum Master        | - Facilitates agile processes<br>- Removes blockers<br>- Organizes meetings                        |
 
 ---
 
@@ -109,3 +109,8 @@ Key aspects of our user-friendly approach include:
    - Company information
    - Social media links
    - Copyright information
+
+
+---
+
+This project is part of my ALX Software Engineering - Frontend Development program. It serves as a comprehensive project to demonstrate and apply web development concepts and best practices learned throughout the curriculum.
