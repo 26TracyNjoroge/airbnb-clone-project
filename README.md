@@ -49,50 +49,18 @@ Key aspects of our user-friendly approach include:
 - Implementing thoughtful micro-interactions to enhance the user experience
 
 ## Figma Design Specifications
-### Color Styles
-* `rgba(52, 150, 124, 1)` - Primary
-* `rgba(255, 168, 0, 1)` and `rgba(22, 17, 23, 1)` - Secondary
-* `rgba(255, 255, 255, 1)` - Shimmer
-* `rgba(235, 235, 235, 1)` - Border
+**Color Styles:**
+* Primary: #FF5A5F
+* Secondary: #008489
+* Background: #FFFFFF
+* Text: #222222
+* Secondary Text: #717171
 
-### Typography
-### `Desktop`
-**Headings:**
-- H1: Source Sans Pro, 600, 94px, 99px  
-- H2: Quicksand, 700, 50px, 100%  
-- H3: Quicksand, 500, 17px, 100%
-
-**Body Text:**
-- Primary: Quicksand, 500, 23px, 35px
-- Secondary: Quicksand, 500, 19px, 35px
-
-**Buttons/Labels:** 
-- Quicksand, 500, 20px, 100%
-
-### `Tablet`
-**Headings:**
-- H1: Quicksand, 700, 39px, 100%  
-- H2: Quicksand, 700, 20px, 35px  
-- H3: Quicksand, 600, 15px, 18.55px   
-
-**Body Text:**
-- Primary: Quicksand, 500, 16px, 35px 
-- Secondary: Quicksand, 500, 11px, 18.55px 
-
-**Buttons/Labels:** 
-- Quicksand, 600, 14px, 100%
-
-### `Mobile`
-**Headings:**
-- H2: Quicksand, 700, 22px, 100%
-- H3: Quicksand, 700, 22px, 35px
-
-**Body Text:**
-- Primary: Quicksand, 500, 18px, 35px 
-- Secondary: Quicksand, 500, 17.06px, 28.77px
-
-**Buttons/Labels:** 
-- Quicksand, 500, 11px, 21px
+**Typography:**
+* Primary Font: Circular
+  * Regular text: 500 weight, 16px
+  * Headings: 700 weight, 24-32px
+  * Secondary text: 400 weight, 14px
 
 ### Design Goals
 - Create an intuitive and frictionless booking flow
