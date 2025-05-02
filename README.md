@@ -16,7 +16,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Version Control: Git and GitHub
 - Design Tools: Figma for UI/UX design
 
--
+---
 
 ## `UI/UX Design Planning`
 ### Design Goals
@@ -32,7 +32,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Secure and streamlined checkout process
 - User authentication and profile management
 
-## Primary Pages
+### Primary Pages
 | Page                     | Description                                                                                                                                                                              |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Property Listing View    | Grid display of available properties with filters for location, price range, dates, and property type. Each listing shows a preview image, basic details, price, and rating.             |
@@ -48,7 +48,7 @@ Key aspects of our user-friendly approach include:
 - Optimizing for various screen sizes and devices
 - Implementing thoughtful micro-interactions to enhance the user experience
 
-### Figma Design Specifications
+## Figma Design Specifications
 ### Color Styles
 * `rgba(52, 150, 124, 1)` - Primary
 * `rgba(255, 168, 0, 1)` and `rgba(22, 17, 23, 1)` - Secondary
@@ -56,8 +56,7 @@ Key aspects of our user-friendly approach include:
 * `rgba(235, 235, 235, 1)` - Border
 
 ### Typography
-
-#### Desktop
+#### `Desktop`
 **Headings:**
 - H1: Source Sans Pro, 600, 94px, 99px  
 - H2: Quicksand, 700, 50px, 100%  
@@ -70,7 +69,7 @@ Key aspects of our user-friendly approach include:
 **Buttons/Labels:** 
 - Quicksand, 500, 20px, 100%
 
-#### Tablet
+#### `Tablet`
 **Headings:**
 - H1: Quicksand, 700, 39px, 100%  
 - H2: Quicksand, 700, 20px, 35px  
@@ -83,7 +82,7 @@ Key aspects of our user-friendly approach include:
 **Buttons/Labels:** 
 - Quicksand, 600, 14px, 100%
 
-#### Mobile
+#### `Mobile`
 **Headings:**
 - H2: Quicksand, 700, 22px, 100%
 - H3: Quicksand, 700, 22px, 35px
@@ -108,3 +107,15 @@ Key aspects of our user-friendly approach include:
 - Secure and streamlined checkout process
 - User authentication and profile management
 - Wishlist/favorites functionality
+
+### Project Roles and Responsibilities
+| Roles               | 	Responsibilities                                                                                                                                                                        |
+|---------------------|---------------------------------------------------------------------|
+| Project Manager     | Oversees timeline, coordinates team, manages deliverables           |
+| Frontend Developers | Implements UI components, ensures responsive design                 |
+| Backend Developers  | Builds APIs, manages database, implements business logic            |
+| Designers           | Creates mockups, maintains design system, ensures UX quality        |
+| QA/Testers          | Writes test cases, performs testing, reports bugs                   |
+| DevOps Engineers    | Manages deployment, CI/CD pipeline, server infrastructure           |
+| Product Owner       | Defines requirements, prioritizes features, represents stakeholders |
+| Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings   |
