@@ -56,7 +56,7 @@ Key aspects of our user-friendly approach include:
 * `rgba(235, 235, 235, 1)` - Border
 
 ### Typography
-#### `Desktop`
+### `Desktop`
 **Headings:**
 - H1: Source Sans Pro, 600, 94px, 99px  
 - H2: Quicksand, 700, 50px, 100%  
@@ -69,7 +69,7 @@ Key aspects of our user-friendly approach include:
 **Buttons/Labels:** 
 - Quicksand, 500, 20px, 100%
 
-#### `Tablet`
+### `Tablet`
 **Headings:**
 - H1: Quicksand, 700, 39px, 100%  
 - H2: Quicksand, 700, 20px, 35px  
@@ -82,7 +82,7 @@ Key aspects of our user-friendly approach include:
 **Buttons/Labels:** 
 - Quicksand, 600, 14px, 100%
 
-#### `Mobile`
+### `Mobile`
 **Headings:**
 - H2: Quicksand, 700, 22px, 100%
 - H3: Quicksand, 700, 22px, 35px
@@ -108,7 +108,7 @@ Key aspects of our user-friendly approach include:
 - User authentication and profile management
 - Wishlist/favorites functionality
 
-### Project Roles and Responsibilities
+## `Project Roles and Responsibilities`
 | Roles               | 	Responsibilities                                                                                                                                                                        |
 |---------------------|---------------------------------------------------------------------|
 | Project Manager     | Oversees timeline, coordinates team, manages deliverables           |
@@ -119,3 +119,25 @@ Key aspects of our user-friendly approach include:
 | DevOps Engineers    | Manages deployment, CI/CD pipeline, server infrastructure           |
 | Product Owner       | Defines requirements, prioritizes features, represents stakeholders |
 | Scrum Master        | Facilitates agile processes, removes blockers, organizes meetings   |
+
+---
+
+## `UI Component Patterns`
+### Planned Components
+1. **Navbar**
+   - Logo
+   - Search bar
+   - User navigation
+   - Responsive menu
+
+2. **Property Card**
+   - Property image
+   - Basic details (price, location, rating)
+   - Favorite button
+   - Responsive layout
+
+3. **Footer**
+   - Site links
+   - Company information
+   - Social media links
+   - Copyright information
